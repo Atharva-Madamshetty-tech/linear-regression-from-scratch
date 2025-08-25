@@ -106,7 +106,6 @@ Most machine learning tutorials use **Scikit-learn** or other high-level librari
 
 ### **Programming Skills**
 - NumPy for vectorized operations and matrix computations  
-- Object-Oriented Programming (OOP) for ML model architecture  
 - Data visualization using Matplotlib  
 - Professional Python development practices  
 
@@ -161,8 +160,6 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ##  Acknowledgments
 - **Andrew Ng’s Machine Learning Course** — foundational ML concepts  
-- **MIT OpenCourseWare** — linear algebra and calculus applications  
-- **Stanford CS229** — machine learning theory and practical insights  
 - Various research papers and online resources that guided algorithm implementation
 
 
