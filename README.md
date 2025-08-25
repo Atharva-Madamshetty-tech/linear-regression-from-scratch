@@ -2,46 +2,46 @@
 
 ---
 
-## 🎯 Why This Repository?
+##  Why This Repository?
 
 Most machine learning tutorials use **Scikit-learn** or other high-level libraries that hide the mathematical implementation details. This repository takes a **fundamentals-first approach**, implementing every algorithm from scratch using only Python and NumPy.
 
 **Learning Philosophy:**
-- 🧮 **Mathematics First**: Understand calculus and linear algebra behind each algorithm
-- 🔧 **Implementation Mastery**: Build cost functions, gradients, and optimizers manually  
-- 📊 **Real-World Applications**: Apply concepts to genuine datasets
-- 🎓 **Deep Understanding**: Know how each parameter affects model performance
+-  **Mathematics First**: Understand calculus and linear algebra behind each algorithm
+-  **Implementation Mastery**: Build cost functions, gradients, and optimizers manually  
+-  **Real-World Applications**: Apply concepts to genuine datasets
+-  **Deep Understanding**: Know how each parameter affects model performance
 
 ---
 
 
 ---
 
-## 📚 Projects Overview
+##  Projects Overview
 
-### 🔹 Simple Linear Regression (Single Variable)
+###  Simple Linear Regression (Single Variable)
 
 
-1. **🏠 House Price Predictor (Simple)**  
+1. ** House Price Predictor (Simple)**  
    - Predict house price based on size/area  
    - Dataset: Housing data  
    - Key Learning: Linear relationships  
    - Formula: `Price = w × Size + b`  
 
-2. **📚 Student Marks Predictor**  
+2. ** Student Marks Predictor**  
    - Predict exam scores based on study hours  
    - Dataset: Student performance data  
    - Formula: `Marks = w × Study_Hours + b`  
 
-### 🔸 Multiple Linear Regression (Multi-Variable)
+###  Multiple Linear Regression (Multi-Variable)
 
-3. **🏠 Boston Housing Prediction**  
+3. ** Boston Housing Prediction**  
    - Predict house prices using 13 features  
    - Dataset: 506 samples  
    - Key Learning: Feature scaling, multi-dimensional optimization  
    - Formula: `Price = w₁×Feature₁ + ... + wₙ×Featureₙ + b`  
 
-4. **🍷 Wine Quality Assessment**  
+4. ** Wine Quality Assessment**  
    - Predict wine quality based on chemical properties  
    - Dataset: 1600 samples, 11 features  
    - Key Learning: Multi-feature regression  
@@ -50,7 +50,7 @@ Most machine learning tutorials use **Scikit-learn** or other high-level librari
 
 ---
 
-## 🧮 Mathematical Foundations
+##  Mathematical Foundations
 
 **Linear Regression Equation**  
 - Single variable: `y = wx + b`  
@@ -79,7 +79,7 @@ Most machine learning tutorials use **Scikit-learn** or other high-level librari
 
 ---
 
-## 🔄 Single vs Multiple Variable Comparison
+##  Single vs Multiple Variable Comparison
 
 | Aspect | Single Variable | Multiple Variable |
 |--------|----------------|-----------------|
@@ -94,14 +94,9 @@ Most machine learning tutorials use **Scikit-learn** or other high-level librari
 
 ---
 
-## 🚀 Quick Start Guide
-
-**Prerequisites:**  
-```bash
-pip install numpy pandas matplotlib
 
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 ### **Mathematical Concepts**
 - Linear algebra applications in machine learning  
@@ -128,7 +123,7 @@ pip install numpy pandas matplotlib
 - Building user-friendly interfaces for technical solutions  
 
 
-## 🛠️ Technical Stack
+##  Technical Stack
 - **Python** 3.x  
 - **NumPy** (vectorized operations and matrix computations)  
 - **Pandas** (data handling and preprocessing)  
@@ -137,7 +132,7 @@ pip install numpy pandas matplotlib
 
 ---
 
-## 🎯 Future Roadmap
+##  Future Roadmap
 
 ### **Phase 2: Classification Algorithms**
 - Logistic Regression  
@@ -159,12 +154,12 @@ pip install numpy pandas matplotlib
 
 ---
 
-## 📄 License
+##  License
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.  
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 - **Andrew Ng’s Machine Learning Course** — foundational ML concepts  
 - **MIT OpenCourseWare** — linear algebra and calculus applications  
 - **Stanford CS229** — machine learning theory and practical insights  
