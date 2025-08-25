@@ -62,18 +62,18 @@ Most machine learning tutorials use **Scikit-learn** or other high-level librari
   
 **Gradient Descent Algorithm**  
 - Repeat until convergence:
-w = w - α × (∂J/∂w)
-b = b - α × (∂J/∂b)
+- w = w - α × (∂J/∂w)
+- b = b - α × (∂J/∂b)
 
 
 **Gradient Calculations**  
 - Single variable:  
-∂J/∂w = (1/m) × Σ(predicted - actual) × x
-∂J/∂b = (1/m) × Σ(predicted - actual)
+- ∂J/∂w = (1/m) × Σ(predicted - actual) × x
+- ∂J/∂b = (1/m) × Σ(predicted - actual)
 
 - Multiple variables:  
-∂J/∂wⱼ = (1/m) × Σ(predicted - actual) × xⱼ
-∂J/∂b = (1/m) × Σ(predicted - actual)
+- ∂J/∂wⱼ = (1/m) × Σ(predicted - actual) × xⱼ
+- ∂J/∂b = (1/m) × Σ(predicted - actual)
 
 
 
