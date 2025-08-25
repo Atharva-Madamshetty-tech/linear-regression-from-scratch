@@ -97,5 +97,5 @@ w_final, b_final = gradient_descent(
 # Make Predictions
 
 a = int(input("Enter the size of the house in square feet"))
-predicted_price = (w_final * {a}) + b_final
+predicted_price = (w_final * a) + b_final
 print(f"Predicted price of a {a} sqft house: ${predicted_price:.1f}")
